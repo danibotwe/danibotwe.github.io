@@ -5,3 +5,6 @@ This is my first personal project using :
 -HTML
 -CSS
 -Javascript
+
+---
+I think this will be awesome
