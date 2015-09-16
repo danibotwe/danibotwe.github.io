@@ -9,3 +9,5 @@ This is my first personal project using :
 ---
 I think this will be awesome
 
+###To do
+- Research background images on css-tricks.com
