@@ -1,0 +1,16 @@
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+.jumbotron {
+	background: url("../img/background-city.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+	color: #FFFFFF;
+}
+.banner-text {
+	margin-top: 300px;
+
+}
