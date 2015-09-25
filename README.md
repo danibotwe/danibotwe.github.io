@@ -10,15 +10,15 @@ This is my first personal project using :
 ### Here's what to expect
 
 Daniel's Website
-	- Your Name
-	- Personal Interests
-	--Food
-	--Soccer
-	--Music (Listening)
-	--Reading
-	--Bio
-	--Picture
-	--Video
+- Your Name
+- Personal Interests
+-Food
+-Soccer
+-Music (Listening)
+-Reading
+-Bio
+-Picture
+-Video
 ---
 I think this will be awesome
 
