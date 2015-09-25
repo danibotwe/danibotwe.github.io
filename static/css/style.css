@@ -13,13 +13,18 @@ body{
     height: 100%;
 
 }
-.banner-text{
+.text-center.banner-text{
+    color: #EBEBEB;
     margin-top: 300px;
     
 }
 .btn.btn-default{
     margin-left: 47%;
 }
-.col-md-offset-4.col-md-4.lead{
+.row.row-text{
     color: white;
+}
+.footer{
+    background-color: white;
+    height: 40px;
 }
