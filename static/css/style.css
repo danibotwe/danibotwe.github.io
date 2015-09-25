@@ -1,16 +1,25 @@
-html {
-	height: 100%;
-}
-body {
-	height: 100%;
-}
-.jumbotron {
-	background: url("../img/background-city.jpg") no-repeat center center fixed;
-	background-size: cover;
-	height: 100%;
-	color: #FFFFFF;
-}
-.banner-text {
-	margin-top: 300px;
+html{
 
+    height: 100%;
+}
+body{
+    height: 100%;
+    background-color: #191919;
+}
+.jumbotron{
+
+    background: url(../img/background-city.jpg) no-repeat center center fixed ;
+    background-size: cover;
+    height: 100%;
+
+}
+.banner-text{
+    margin-top: 300px;
+    
+}
+.btn.btn-default{
+    margin-left: 47%;
+}
+.col-md-offset-4.col-md-4.lead{
+    color: white;
 }
