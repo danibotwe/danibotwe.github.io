@@ -12,13 +12,13 @@ This is my first personal project using :
 Daniel's Website
 - Your Name
 - Personal Interests
--Food
--Soccer
--Music (Listening)
--Reading
--Bio
--Picture
--Video
+- Food
+- Soccer
+- Music (Listening)
+- Reading
+- Bio
+- Picture
+- Video
 ---
 I think this will be awesome
 
