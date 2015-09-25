@@ -14,17 +14,22 @@ body{
 
 }
 .text-center.banner-text{
-    color: #EBEBEB;
+    color: white;
+    font-size: 45px;
     margin-top: 300px;
     
 }
-.btn.btn-default{
-    margin-left: 47%;
+h2{
+    font-family: Verdana;
 }
 .row.row-text{
+    font-family: Arial;
     color: white;
 }
 .footer{
-    background-color: white;
+    color: white;
+    text-align: left;   
     height: 40px;
 }
+
+
