@@ -4,14 +4,17 @@ html{
 }
 body{
     height: 100%;
-    background-color: #191919;
+    background-color: white;
 }
 .jumbotron{
 
-    background: url(../img/background-city.jpg) no-repeat center center fixed ;
+    background: url(../img/index1.jpg) no-repeat center center fixed ;
     background-size: cover;
     height: 100%;
 
+}
+.navbar.navbar-fixed-top.navbar-inverse{
+    color: black;
 }
 .text-center.banner-text{
     color: white;
@@ -20,15 +23,15 @@ body{
     
 }
 h2{
-    font-family: Verdana;
+    font-family: Arial;
 }
 .row.row-text{
     font-family: Arial;
-    color: white;
+    color: black;
 }
 .footer{
-    color: white;
-    text-align: left;   
+    color: black;
+    text-align: center;   
     height: 40px;
 }
 
