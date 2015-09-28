@@ -38,14 +38,6 @@
                 <li><a href="https://www.asoriba.com/">Asoriba Inc.</a></li>
               </ul>
                 </li>
-                <li class="dropdown"><a class="dropdown-toggle" aria-expanded="true" role="button" data-toggle="dropdown" href="#">Where I've studied
-                  <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                <li><a href="www.siliconvalleyintschool.org">Silicon Valley International School</a></li>
-                <li><a href="">Presec-Legon</a></li>
-                <li><a href="www.aiti-kace.com.gh">AITI-KACE</a></li>
-              </ul>
-                </li>
                 <li class="dropdown"><a class="dropdown-toggle" aria-expanded="true" role="button" data-toggle="dropdown" href="#">Learn something<span class="caret"></span></a>
                   <ul class="dropdown-menu">
                 <li><a href="https://www.codecademy.com/">Codecademy</a></li>
@@ -59,22 +51,21 @@
         </div>
      </div>
   </nav>
-  <div class="jumbotron">
-    <h1 class="text-center banner-text"></h1>
-  </div>+
+    <div class="jumbotron">
+      <h1 class="banner-text text-center">Welcome!!</h1>
+  </div>
     <div class="container">
-        <div class="row">
+        <d iv class="row">
           <div class="col-md-offset-3 col-md-6 text-center">
-              <img class="img-circle" src="/static/img/index.jpg" width="140" height="140"/>
-              <div class="row row-text"><br>
-                <p class="lead">I'm Daniel Obeng, a young guy from Ajumako, Central region. I have a passion for tennis, basketball, FC Barcelona and football. I have experience with C programming, JavaScript, Hypertext Markup Language(HTML), Cascading stylesheet(CSS). I love to code. You can also learn some languages by using these links <a href="https://www.codecademy.com/">Codecademy</a>, <a href="http://w3schools.com/">W3schools.</a></p>
+              <div class="row row-text">
+                <p class="lead">I'm Daniel Obeng, a young guy from Ajumako, Central region. I have a passion for tennis, basketball, FC Barcelona and football. I have experience with C programming, JavaScript, Hypertext Markup Language(HTML), Cascading stylesheet(CSS). I love to code. You can also learn some languages by using these links <a href="https://www.codecademy.com/">Codecademy</a>, <a href="http://w3schools.com/">W3schools.</a> Below are two videos of my interest. Enjoy!!</p>
               </div>
             </div>
         </div>
    </div>
    <div class="row">
     <div class="col-md-4">
-      <h2>C</h2>
+      <h2></h2>
       <p></p>
     </div>
    </div>
@@ -104,6 +95,17 @@
     <script src="static/js/jquery-1.11.3.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="static/js/bootstrap.min.js"></script>
-    <script type="text/javascript"></script>
+    <script src="/static/js/typed.min.js" type="text/javascript"></script>
+  <script>
+  $(function(){
+    $(".banner-text.text-center").typed({
+      strings:["", "I'm Danny and ^1000 I love to code.."]
+      typeSpeed: 20,
+      backDelay: 500,
+    });
+  });
+
+    </script>
+    
   </body>
 </html>
