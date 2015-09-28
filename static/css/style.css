@@ -4,51 +4,51 @@ html{
 }
 body{
     height: 100%;
-    background-color: white;
+    background-color: #191919;
 }
 .jumbotron{
-    background: url(../img/index1.jpg) no-repeat center center fixed;
+    background: url(../img/rainy.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
-    font-size: 45px;
+    color: white;
 }
 .navbar.navbar-fixed-top.navbar-inverse{
-    color: black;
+    color: white;
 }
 .row.row-text{
     font-family: Arial;
-    color: black;
+    color: white;
 }
 .banner-text{
     margin-top: 300px;
 }
 #typed-cursor{
-opacity: 1;
-font-weight: 100;
-font-size: 30px;
--webkit-animation: blink 0.7s infinite;
--moz-animation: blink 0.7s infinite;
--ms-animation: blink 0.7s infinite;
--o-animation: blink 0.7s infinite;
-animation: blink 0.7s infinite;
+    opacity: 1;
+    font-weight: 100;
+    font-size: 30px;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    -ms-animation: blink 0.7s infinite;
+    -o-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
 }
-@keyframes blink{
-0% { opacity:1; }
-50% { opacity:0; }
-100% { opacity:1; }
+    @keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
 @-webkit-keyframes blink{
-0% { opacity:1; }
-50% { opacity:0; }
-100% { opacity:1; }
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
 @-moz-keyframes blink{
-0% { opacity:1; }
-50% { opacity:0; }
-100% { opacity:1; }
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
 .footer{
-    color: black;
+    color: white;
     text-align: center;   
     height: 40px;
 }
